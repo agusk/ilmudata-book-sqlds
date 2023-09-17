@@ -1,6 +1,6 @@
 # SQL Query untuk Data Science
 
-<img src="cover-hallo-docker.png"  width="320">
+<img src="cover.png"  width="320">
 
 Dalam era informasi, kemampuan untuk memahami dan memanipulasi data menjadi salah satu keterampilan paling penting. "SQL Query untuk Data Science" dirancang khusus bagi Anda yang ingin mempelajari cara mengakses, menganalisis, dan memanipulasi data menggunakan SQL, bahasa pemrograman khusus untuk mengelola basis data.
 
