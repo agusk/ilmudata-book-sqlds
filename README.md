@@ -12,6 +12,7 @@ Apakah Anda seorang data scientist yang ingin memperkuat keterampilan Anda, seor
 
 ## Publikasi
 
-* Google Play Books: https://play.google.com/store/books/details?id=y3_XEAAAQBAJ
+* Google Play Books: https://play.google.com/store/books/details?id=y3_XEAAAQBAJ 
+* Apple Books: https://books.apple.com/us/book/id6467008228
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/sql-query-untuk-data-science/ebook/product-e7erk84.html
 
